@@ -34,6 +34,6 @@ Attempts to bypass login by making the SQL condition always true
 5. **Apply secure error handling:** Do not expose database errors to users.
 6. **Perform security testing:** Regularly assess applications in authorized environments.
 
-## 10. Disclaimer
+## 6. Disclaimer
 
 This documentation is for educational purposes and authorized security testing only. Do not attempt authentication bypass on systems without permission.
